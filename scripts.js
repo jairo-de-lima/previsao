@@ -18,7 +18,7 @@ document.addEventListener('keypress', function (event) {
     if (event.key === 'Enter') {
         cliquei()
     }
-})
+}) /*codigo responsavel péla funcao pesquisar com enter*/
 
 function cliquei() {
     let cidade = document.querySelector('.input-cidade').value
