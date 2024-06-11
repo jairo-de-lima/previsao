@@ -1,3 +1,6 @@
+<img> ![previsao do tempo](https://github.com/jairo-de-lima/previsao/assets/168688056/2c84d846-a007-4577-a293-091d76ac721a)</img>
+
+<br>
 Weather Forecast Website
 
 Este repositório contém o código-fonte de um site de previsão do tempo desenvolvido utilizando HTML, CSS e JavaScript. O site consome dados de uma API de previsão do tempo para fornecer informações meteorológicas atualizadas.
@@ -72,11 +75,3 @@ Email: jairodelima94@gmail.com
 GitHub: jairo-de-lima
 
 Esperamos que você ache este projeto útil. Se tiver algum problema ou sugestão, por favor, abra uma issue no GitHub. Agradecemos seu interesse!
-
-
-
-
-<img> ![previsao do tempo](https://github.com/jairo-de-lima/previsao/assets/168688056/2c84d846-a007-4577-a293-091d76ac721a)</img>
-
-
-
